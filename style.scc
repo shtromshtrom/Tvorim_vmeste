@@ -1,0 +1,48 @@
+h1{
+    text-align: center;
+    color: green;
+}
+nav{
+    justify-content: space-around;
+    display: flex;
+  border-bottom: 1px dashed orange;
+}
+h2{
+    color: orange;
+}
+.as{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    background-color: green;
+}
+
+.as img{
+    width: 100px;
+    height: 100px;
+    border-bottom: 7px dotted orange;
+}
+
+article{
+    text-align: center;
+    margin: 10px;
+}
+H3{
+    color: white;
+}
+p{
+    color: orange;
+}
+.a{
+        border-bottom: 10px dashed orange;
+}
+.d{
+      text-decoration: none;
+      color:  orange;
+}
+.x{
+    text-align: center;
+}
+.f{
+    text-align: right;
+}
